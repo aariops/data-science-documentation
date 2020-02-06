@@ -19,6 +19,7 @@
 
 
 - [Regex Expressions _(compiled by jacksonfdam)_](https://gist.github.com/jacksonfdam/3000275)
+- [Pandas](http://datacamp-community-prod.s3.amazonaws.com/dbed353d-2757-4617-8206-8767ab379ab3)
 - [Pyhton](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 
 
