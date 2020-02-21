@@ -12,6 +12,9 @@
 - [Python 3.7](https://docs.python.org/3.7/)
 - [Python 3.8](https://docs.python.org/3.8/)
 - [Python Regex](https://docs.python.org/3/howto/regex.html)
+- [statsmodel](https://www.statsmodels.org/stable/index.html)
+- [Seaborn](https://seaborn.pydata.org/)
+- [Scipy](https://docs.scipy.org/doc/scipy-1.4.1/reference/)
 - [Tweepy (_latest_)](http://docs.tweepy.org/en/latest/)
 - [Word Cloud](http://amueller.github.io/word_cloud/)
 
